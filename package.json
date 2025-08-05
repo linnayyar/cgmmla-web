@@ -1,0 +1,8 @@
+{
+  "name": "flutter-web-render",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'Flutter Web: No server needed (static files)' && exit 0"
+  },
+  "dependencies": {}
+}
