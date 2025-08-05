@@ -1,0 +1,347 @@
+{
+  "visa_info": [
+    {
+      "type": "Gratis Diplomatic/Official Courtesy Visa",
+      "code": "A",
+      "fees": "Gratis",
+      "length_of_stay": "Duration of Assignment"
+    },
+    {
+      "type": "Tourist Visa",
+      "code": "B",
+      "fees": "40 USD",
+      "length_of_stay": "28 Days"
+    },
+    {
+      "type": "Business Visa (Single)",
+      "code": "C",
+      "fees": "50 USD",
+      "length_of_stay": "70 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+    {
+      "type": "Business Visa (Multiple)",
+      "code": "C",
+      "options": [
+        {
+          "fees": "200 USD",
+          "validity": "3 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        },
+        {
+          "fees": "400 USD",
+          "validity": "6 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        },
+        {
+          "fees": "600 USD",
+          "validity": "1 year",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Social Visa (Single)",
+      "code": "D",
+      "fees": "50 USD",
+      "length_of_stay": "70 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+    {
+      "type": "Social Visa (Multiple)",
+      "code": "D",
+      "options": [
+        {
+          "fees": "150 USD",
+          "validity": "3 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        },
+        {
+          "fees": "300 USD",
+          "validity": "6 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        },
+        {
+          "fees": "450 USD",
+          "validity": "1 year",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Religious Visa (Single)",
+      "code": "E",
+      "fees": "50 USD",
+      "length_of_stay": "70 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+    {
+      "type": "Religious Visa (Multiple)",
+      "code": "E",
+      "options": [
+        {
+          "fees": "150 USD",
+          "validity": "3 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        },
+        {
+          "fees": "300 USD",
+          "validity": "6 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        },
+        {
+          "fees": "450 USD",
+          "validity": "1 year",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Transit Visa",
+      "code": "F",
+      "fees": "20 USD",
+      "length_of_stay": "24 Hours"
+    },
+    {
+      "type": "Official Visa (Single)",
+      "code": "G",
+      "fees": "50 USD",
+      "length_of_stay": "70 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+    {
+      "type": "Official Visa (Multiple)",
+      "code": "G",
+      "options": [
+        {
+          "fees": "200 USD",
+          "validity": "3 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        },
+        {
+          "fees": "400 USD",
+          "validity": "6 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        },
+        {
+          "fees": "600 USD",
+          "validity": "1 year",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 70 days."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Employment Visa",
+      "code": "H",
+      "fees": "50 USD",
+      "length_of_stay": "70 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+    {
+      "type": "Education Visa (Single)",
+      "code": "I",
+      "fees": "50 USD",
+      "length_of_stay": "90 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+  {
+      "type": "Education Visa (Multiple)",
+      "code": "I",
+      "options": [
+        {
+          "fees": "160 USD",
+          "validity": "1 year",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 90 days."
+          ]
+        }
+      ]
+ 
+    },
+    {
+      "type": "Journalist Visa",
+      "code": "J",
+      "fees": "40 USD",
+      "length_of_stay": "28 Days"
+    },
+    {
+      "type": "Crew Visa (Single)",
+      "code": "K",
+      "fees": "50 USD",
+      "length_of_stay": "90 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+      {
+      "type": "Crew Visa (Multiple)",
+      "code": "K",
+      "options": [
+        {
+          "fees": "160 USD",
+          "validity": "2 year",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 90 days."
+          ]
+        }
+      ] 
+    },
+    {
+      "type": "Workshop/Seminar/Meeting/Research Visa",
+      "code": "L",
+      "fees": "40 USD",
+      "length_of_stay": "28 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations for Research purpose, but other types cannot apply."
+      ]
+    },
+    {
+      "type": "Entry Visa (For Diplomatic Guests) (Single)",
+      "code": "M",
+      "fees": "20 USD",
+      "length_of_stay": "28 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+    {
+      "type": "Entry Visa (For Diplomatic Guests) (Multiple)",
+      "code": "M",
+      "options": [
+        {
+          "fees": "100 USD",
+          "validity": "3 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 28 days."
+          ]
+        },
+        {
+          "fees": "200 USD",
+          "validity": "6 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 28 days."
+          ]
+        },
+        {
+          "fees": "400 USD",
+          "validity": "1 year",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 28 days."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Entry Visa (For Non-diplomatic Staff and\ntheir Immediate Family Members) (Single)",
+      "code": "N",
+      "fees": "20 USD",
+      "length_of_stay": "28 Days",
+      "notes": [
+        "Can apply stay extension according to the rules and regulations."
+      ]
+    },
+    {
+      "type": "Entry Visa (For Non-diplomatic Staff and\ntheir Immediate Family Members) (Multiple)",
+      "code": "N",
+      "options": [
+        {
+          "fees": "60 USD",
+          "validity": "3 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 28 days."
+          ]
+        },
+        {
+          "fees": "120 USD",
+          "validity": "6 Months",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 28 days."
+          ]
+        },
+        {
+          "fees": "240 USD",
+          "validity": "1 year",
+          "notes": [
+            "Allow multiple entry and stay.",
+            "Can apply stay extension according to the rules and regulations.",
+            "Do not need to exit after staying 28 days."
+          ]
+        }
+      ]
+    }
+  ]
+}

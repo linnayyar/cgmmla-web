@@ -1,0 +1,213 @@
+{
+  "visa_exemption": 
+ [
+  {
+    "no": 1,
+    "country": "Bangladesh",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "90 days",
+    "official_passport": "check",
+    "official_duration": "90 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 2,
+    "country": "Belarus",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 3,
+    "country": "Brazil",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 4,
+    "country": "Brunei Darussalam *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "14 days",
+    "official_passport": "check",
+    "official_duration": "14 days",
+    "ordinary_passport": "check"
+  },
+  {
+    "no": 5,
+    "country": "Cambodia *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "check"
+  },
+  {
+    "no": 6,
+    "country": "China(P.R.C)",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 7,
+    "country": "Colombia",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "90 days",
+    "official_passport": "check",
+    "official_duration": "90 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 8,
+    "country": "India",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "90 days",
+    "official_passport": "check",
+    "official_duration": "90 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 9,
+    "country": "Indonesia *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "14 days",
+    "official_passport": "check",
+    "official_duration": "14 days",
+    "ordinary_passport": "check"
+  },
+  {
+    "no": 10,
+    "country": "Israel",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "90 days",
+    "official_passport": "check",
+    "official_duration": "90 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 11,
+    "country": "Korea\n(Democratic People's Republic of Korea)",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 12,
+    "country": "Korea\n(Republic of Korea)",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "90 days",
+    "official_passport": "check",
+    "official_duration": "90 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 13,
+    "country": "Laos *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "check"
+  },
+  {
+    "no": 14,
+    "country": "Malaysia *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 15,
+    "country": "Mongolia",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 16,
+    "country": "Morocco",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "90 days",
+    "official_passport": "check",
+    "official_duration": "90 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 17,
+    "country": "Nepal",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "90 days",
+    "official_passport": "check",
+    "official_duration": "90 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 18,
+    "country": "Philippines *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "check"
+  },
+  {
+    "no": 19,
+    "country": "Russia",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "90 days",
+    "official_passport": "check",
+    "official_duration": "90 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 20,
+    "country": "Singapore *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "check"
+  },
+  {
+    "no": 21,
+    "country": "Sri Lanka",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "cross"
+  },
+  {
+    "no": 22,
+    "country": "Thailand *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "check"
+  },
+  {
+    "no": 23,
+    "country": "Vietnam *",
+    "diplomatic_passport": "check",
+    "diplomatic_duration": "30 days",
+    "official_passport": "check",
+    "official_duration": "30 days",
+    "ordinary_passport": "check"
+  }
+]
+
+}

@@ -1,0 +1,26 @@
+{
+  "visa_fees": [
+  {
+    "no": 1,
+    "visa_type": "Tourist Visa (Online)",
+    "fees": "US$ 50.00",
+    "duration": "28 days",
+    "application_method": "Online"
+  },
+  {
+    "no": 2,
+    "visa_type": "Tourist Visa Express (Online)",
+    "fees": "US$ 56.00",
+    "duration": "28 days",
+    "application_method": "Online"
+  },
+  {
+    "no": 3,
+    "visa_type": "Business Visa (Online)",
+    "fees": "US$ 70.00",
+    "duration": "70 days",
+    "application_method": "Online"
+  }
+]
+
+}

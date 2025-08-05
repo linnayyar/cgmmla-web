@@ -1,0 +1,24 @@
+{
+  "visa_types": [
+  {
+    "visa_type": "လုပ်ငန်းဗီဇာ (Business Visa)",
+    "duration_of_stay": "70 Days",
+    "fee_usd": "50 USD"
+  },
+  {
+    "visa_type": "အလုပ်ရုံ/ ဆွေးနွေးပွဲ/ အစည်းအဝေး/ သုတေသနဗီဇာ\n(Workshop/ Seminar/ Meeting/ Research Visa)",
+    "duration_of_stay": "28 Days",
+    "fee_usd": "40 USD"
+  },
+  {
+    "visa_type": "ဖြတ်သန်းဗီဇာ (Transit Visa)",
+    "duration_of_stay": "24 Hours",
+    "fee_usd": "20 USD"
+  },
+  {
+    "visa_type": "ယာဉ်အမှုထမ်းဗီဇာ (Crew Visa)",
+    "duration_of_stay": "28 Days",
+    "fee_usd": "40 USD"
+  }
+]
+}
